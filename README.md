@@ -5,7 +5,7 @@ Bonjour ! Je suis **Mohamed-Amine Ben Salem**, étudiant en **sciences mathémat
 
 ## 🛠️ Compétences
 - **Développement Web** : HTML, CSS, PHP, MySQL, WordPress
-- **Programmation** : C++
+- **Programmation** : C++ , c# , c , java oop 
 - **Outils de Design** : Canva, Elementor
 - **Langues** : Arabe (native), Français (professionnel), Anglais (professionnel)
 
@@ -37,6 +37,6 @@ Bonjour ! Je suis **Mohamed-Amine Ben Salem**, étudiant en **sciences mathémat
 ## 📌 Liens utiles
 - 🌐 [Portfolio/Blog](https://codewebhelp.blogspot.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ben-salem-mohamed-amine)
-- 🖥️ [GitHub](https://github.com/medaminebensalem)
+
 
 
