@@ -39,4 +39,4 @@ Bonjour ! Je suis **Mohamed-Amine Ben Salem**, étudiant en **sciences mathémat
 - 💼 [LinkedIn](https://www.linkedin.com/in/ben-salem-mohamed-amine)
 - 🖥️ [GitHub](https://github.com/medaminebensalem)
 
-🚀 Toujours prêt à apprendre et à relever de nouveaux défis !
+
