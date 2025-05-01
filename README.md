@@ -8,6 +8,7 @@ Bonjour ! Je suis **Mohamed-Amine Ben Salem**, étudiant en **sciences mathémat
 - **Programmation** : C++ , c# , c , java oop 
 - **Outils de Design** : Canva, Elementor
 - **Langues** : Arabe (native), Français (professionnel), Anglais (professionnel)
+- linux / Essential Linux Security
 
 ## 📜 Certifications
 - Web Development Bootcamp (HTML, CSS, PHP, MySQL, WordPress)
