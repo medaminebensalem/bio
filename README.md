@@ -37,7 +37,8 @@ Bonjour ! Je suis **Mohamed-Amine Ben Salem**, étudiant en **sciences mathémat
 
 ##  Liens utiles
 -  [Portfolio/Blog](https://codewebhelp.blogspot.com/)
--  [LinkedIn](https://www.linkedin.com/in/ben-salem-mohamed-amine)
+-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/ben-salem-mohamed-amine/)
+
 
 
 
