@@ -36,8 +36,9 @@ Bonjour ! Je suis **Mohamed-Amine Ben Salem**, étudiant en **sciences mathémat
 - **Baccalauréat option internationale, Sciences Mathématiques A** - Lycée Sidi Ahmed Bennacer (2020 - 2021)
 
 ##  Liens utiles
--  [Portfolio/Blog](https://codewebhelp.blogspot.com/)
--  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/ben-salem-mohamed-amine/)
+
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/ben-salem-mohamed-amine/) [<img src="https://img.icons8.com/color/48/000000/blog.png" width="30"/>](https://www.codewebhelp.pro/)
+
 
 
 
