@@ -3,7 +3,7 @@
 ##  À propos de moi
 Bonjour ! Je suis **Mohamed-Amine Ben Salem**, étudiant en **sciences mathématiques et informatiques** à la Faculté Polydisciplinaire d'Ouarzazate (Université Ibn Zohr). Passionné par le développement web, j'ai une préférence pour le **front-end**, tout en explorant le **full-stack**.
 
-## 🛠 Compétences
+##  Compétences
 - **Développement Web** : HTML, CSS, PHP, MySQL, WordPress
 - **Programmation** : C++ , c# , c , java oop 
 - **Outils de Design** : Canva, Elementor
