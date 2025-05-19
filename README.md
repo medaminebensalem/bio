@@ -35,7 +35,7 @@ Bonjour ! Je suis **Mohamed-Amine Ben Salem**, étudiant en **sciences mathémat
 - **DEUG en sciences mathématiques et informatiques** - Université Ibn Zohr (2021 - 2024)
 - **Baccalauréat option internationale, Sciences Mathématiques A** - Lycée Sidi Ahmed Bennacer (2020 - 2021)
 
-##  Liens utiles
+##  Réseaux
 
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/ben-salem-mohamed-amine/) [<img src="https://img.icons8.com/color/48/000000/blog.png" width="30"/>](https://www.codewebhelp.pro/)
 
