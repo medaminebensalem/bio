@@ -21,7 +21,7 @@ Bonjour ! Je suis **Mohamed-Amine Ben Salem**, étudiant en **sciences mathémat
 ###  Tokaido Club Karaté | **Graphiste** (Janvier 2025 - Présent)
 - Création d'affiches, couvertures et annonces pour promouvoir les événements et compétitions du club.
 
-### 🖥️ Freelance | **Développeur Web** (Juillet 2024 - Janvier 2025)
+###  Freelance | **Développeur Web** (Juillet 2024 - Janvier 2025)
 - Développement de sites et applications web.
 
 ###  Freelance | **Graphiste** (Avril 2023 - Octobre 2024)
