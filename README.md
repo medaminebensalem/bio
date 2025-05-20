@@ -10,10 +10,17 @@ Bonjour ! Je suis **Mohamed-Amine Ben Salem**, étudiant en **sciences mathémat
 
 
 
-- **Programmation** : C++ , c# , c , java oop 
-- **Outils de Design** : Canva, Elementor
+- **Programmation** : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+
+
+
+    
+- **Outils de Design** : [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/canva.svg" width="30" height="30" alt="Canva Logo"/>](https://www.canva.com/)[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/elementor.svg" width="30" height="30" alt="Elementor Logo"/>](https://elementor.com/)
+
+ 
 - **Langues** : Arabe (native), Français (professionnel), Anglais (professionnel)
-- linux / Essential Linux Security
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> / Essential Linux Security
+
 
 ##  Certifications
 - Web Development Bootcamp (HTML, CSS, PHP, MySQL, WordPress)
