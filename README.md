@@ -64,7 +64,8 @@ Bonjour ! Je suis **Mohamed-Amine Ben Salem**, étudiant en **sciences mathémat
   ![Profile views](https://komarev.com/ghpvc/?username=medaminebensalem&label=Profile%20views&color=0e75b6&style=flat)
 
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medaminebensalem&show_icons=true&theme=radical)[![Trophies](https://github-profile-trophy.vercel.app/?username=medaminebensalem&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medaminebensalem&show_icons=true&theme=radical)![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=medaminebensalem&theme=dracula)
+
 
 
 
