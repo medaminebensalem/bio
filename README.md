@@ -26,7 +26,7 @@ Bonjour ! Je suis **Mohamed-Amine Ben Salem**, étudiant en **sciences mathémat
 - **System d'exploitation**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
 
-- **Gestion de projet** <img src="https://www.plantuml.com/plantuml/img/SoWkIImgAStDuNBCoKnELT2rKt3AJ4ZDoSa70000" width="40" alt="UML"/>
+- **Gestion de projet** ![UML](https://img.shields.io/badge/UML-DarkBlue?style=for-the-badge&logo=uml&logoColor=white)
 
 
 - **Langues** : Arabe (native), Français (professionnel), Anglais (professionnel)
