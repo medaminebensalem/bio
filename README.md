@@ -15,7 +15,8 @@ Bonjour ! Je suis **Mohamed-Amine Ben Salem**, étudiant en **sciences mathémat
 
 
     
-- **Outils de Design** : [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/canva.svg" width="30" height="30" alt="Canva Logo"/>](https://www.canva.com/)[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/elementor.svg" width="30" height="30" alt="Elementor Logo"/>](https://elementor.com/)
+- **Outils de Design** : [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/canva.svg" width="30" height="30" alt="Canva Logo"/>](https://www.canva.com/)![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+
 
  
 - **Langues** : Arabe (native), Français (professionnel), Anglais (professionnel)
