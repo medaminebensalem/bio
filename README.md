@@ -36,7 +36,7 @@ Bonjour ! Je suis **Mohamed-Amine Ben Salem**, étudiant en **sciences mathémat
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medaminebensalem&layout=compact&theme=algolia" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=medaminebensalem&theme=github-dark&hide_border=true&currStreakLabel=ffffff&fire=ffffff&ring=ffffff" />
+      [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=medaminebensalem&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
     </td>
   </tr>
 </table>
