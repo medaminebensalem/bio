@@ -84,9 +84,7 @@ Bonjour ! Je suis **Mohamed-Amine Ben Salem**, étudiant en **sciences mathémat
 
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medaminebensalem&theme=github-dark&hide_border=true&currStreakLabel=ffffff&fire=ffffff&ring=ffffff" />
-</p>
+
 
 
 
