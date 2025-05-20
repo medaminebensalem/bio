@@ -61,7 +61,8 @@ Bonjour ! Je suis **Mohamed-Amine Ben Salem**, étudiant en **sciences mathémat
 
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/ben-salem-mohamed-amine/) [<img src="https://img.icons8.com/color/48/000000/blogger.png" width="30"/>](https://www.codewebhelp.pro/)
 
-  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=medaminebensalem&theme=github-compact)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medaminebensalem&show_icons=true&theme=radical)
+
 
 
 
