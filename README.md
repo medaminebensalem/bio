@@ -28,6 +28,8 @@ Bonjour ! Je suis **Mohamed-Amine Ben Salem**, étudiant en **sciences mathémat
 
 - **Gestion de projet** ![UML](https://img.shields.io/badge/UML-DarkBlue?style=for-the-badge&logo=uml&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medaminebensalem&layout=compact&theme=radical)
+
 
 
 
@@ -64,7 +66,7 @@ Bonjour ! Je suis **Mohamed-Amine Ben Salem**, étudiant en **sciences mathémat
   ![Profile views](https://komarev.com/ghpvc/?username=medaminebensalem&label=Profile%20views&color=0e75b6&style=flat)
 
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medaminebensalem&show_icons=true&theme=radical)         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medaminebensalem&layout=compact&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medaminebensalem&show_icons=true&theme=radical)        
 
 
 
