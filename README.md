@@ -45,7 +45,8 @@ Bonjour ! Je suis **Mohamed-Amine Ben Salem**, étudiant en **sciences mathémat
 
 ##  Connect with me:
 
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/ben-salem-mohamed-amine/) [<img src="https://img.icons8.com/color/48/000000/blogger.png" width="30"/>](https://www.codewebhelp.pro/)[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@med__ab)
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/ben-salem-mohamed-amine/) [<img src="https://img.icons8.com/color/48/000000/blogger.png" width="30"/>](https://www.codewebhelp.pro/)[<img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="30"/>](https://www.youtube.com/@med__ab)
+
 
 
   
